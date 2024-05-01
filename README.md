@@ -1,2 +1,3 @@
 # TIC-TAC-TOE-GAME
-A simple Tic Tac Toe game implementation.
+
+Your site is live at https://manavjain28.github.io/TIC-TAC-TOE-GAME/
